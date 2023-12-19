@@ -7,4 +7,3 @@ document.querySelector("#app").innerHTML = `
     <img src="./public/Nallely-Moontes.jpg" alt="" style="max-width: 300px"/>
   </div>
 `;
-|
